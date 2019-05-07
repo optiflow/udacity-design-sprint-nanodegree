@@ -1,1 +1,1 @@
-# udacity_design_sprint_nanodegree
+# Coursework for Udacity Design Sprint Nanodegree
